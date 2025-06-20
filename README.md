@@ -1,8 +1,8 @@
 ## Hi there 👋
 I'm a Software Developer with an experience in C/C++, Lua and C# with the .NET framework. I'm also a Web developer and Game Developer.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NeoXa7&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeoXa7&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&layout=compact)
 
 
 ## 🤖 Tools I Use
