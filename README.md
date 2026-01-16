@@ -2,9 +2,9 @@
 <h3 align="center">💻 Software Developer | 🎮 Game Developer </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;C++%20%7C%20C%23%20%7C%20;Game%20and%20Engine%20Developer;Loves%20to%20Build%20Cool%20Stuff&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;C%2B%2B%20%7C%20C%23;Game%20and%20Engine%20Developer;Loves%20to%20Build%20Cool%20Stuff&center=true&width=500&height=45">
 </p>
-<h3 align="center"> 📊 GitHub Stats </h3>
+<h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true&theme=tokyonight" height="195" alt="GitHub Stats"/>
