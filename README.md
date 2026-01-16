@@ -1,23 +1,15 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#00BFFF">Saurav</span></h1>
-<h3 align="center">💻 Software Developer | 🎮 Game Developer </h3>
+<h1 align="center">Hi there 👋, I'm Saurav</h1>
+<h3 align="center">💻 Software Developer | 🎮 Game Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;C%2B%2B%20%7C%20C%23;Game%20and%20Engine%20Developer;Loves%20to%20Build%20Cool%20Stuff&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Passionate+Programmer;C%2B%2B+%7C+C%23;Game+and+Engine+Developer;Loves+to+Build+Cool+Stuff" />
 </p>
 
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true&theme=tokyonight" height="195"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&layout=compact&theme=tokyonight" height="195"/>
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&layout=compact&theme=tokyonight" height="195" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
