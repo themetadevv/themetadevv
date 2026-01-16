@@ -5,19 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=520&lines=Passionate+Programmer;C%2B%2B+%7C+C%23;Game+and+Engine+Developer;Loves+to+Build+Cool+Stuff" />
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=themetadevv&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=themetadevv&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
 ---
 
 ## 🚀 About Me
-- 💻 I primarily use **C/C++** for low-level and game engine development.  
-- 🧠 I love building things from scratch — especially **custom game engines** with **OpenGL** and **DirectX**.
-- 🔧 I write tools using **ImGui**, and build various applications.
+- 💻 I primarily use **C++** for game engine development.  
+- 🧠 I love building things from scratch.
+- 🔧 I use **ImGui**, and build various applications.
 ---
 
 ## 🔧 Tools & Technologies I Use
