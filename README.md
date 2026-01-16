@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Programmer;C%2B%2B%20%7C%20C%23;Game%20and%20Engine%20Developer;Loves%20to%20Build%20Cool%20Stuff&center=true&width=500&height=45">
 </p>
+
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
