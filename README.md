@@ -8,9 +8,8 @@
 ---
 
 ## 🚀 About Me
-- 💻 I primarily use **C++** for game engine development.  
-- 🧠 I love building things from scratch.
-- 🔧 I use **ImGui**, and build various applications.
+- 💻 I primarily use **C++** for development.  
+- 🧠 I like building things from scratch.
 ---
 
 ## 🔧 Tools & Technologies I Use
